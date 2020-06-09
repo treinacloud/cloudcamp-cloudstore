@@ -1,0 +1,13 @@
+{shop_url}
+
+Parabéns!
+
+Um(a) amigo(a) que você indicou, {sponsored_firstname} {sponsored_lastname}, realizou seu primeiro pedido na [{shop_name}]({shop_url})!
+
+Temos a satisfação de oferecer a você um vale-desconto no valor de {discount_display} (VALE-DESCONTO Nº {discount_name}) que você poderá utilizar em seu próximo pedido.
+
+Atenciosamente,
+
+[{shop_name}]({shop_url})
+
+Powered by [PrestaShop](https://www.prestashop.com/?utm_source=marchandprestashop&utm_medium=e-mail=utm_campaign=footer_1-7)

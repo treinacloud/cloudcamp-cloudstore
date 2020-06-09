@@ -1,0 +1,13 @@
+{shop_url}
+
+Olá {firstname} {lastname},
+
+Nova mensagem de alerta salva
+
+ATENÇÃO: você recebeu um novo alerta de log em sua área de administração.
+
+Você pode vê-lo na seção Parâmetros Avançados > Logs de sua área de administração.
+
+[{shop_name}]({shop_url})
+
+Powered by [PrestaShop](https://www.prestashop.com/?utm_source=marchandprestashop&utm_medium=e-mail=utm_campaign=footer_1-7)

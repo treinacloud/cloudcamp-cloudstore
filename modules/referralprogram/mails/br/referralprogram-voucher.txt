@@ -1,0 +1,14 @@
+{shop_url}
+
+Olá {firstname} {lastname},
+
+Programa de Patrocínio
+
+Criamos um cupom em seu nome por indicar um amigo.
+Segue o código do cupom: {voucher_num}, com um montante de {voucher_num}
+
+Na próxima compra basta inserir o código do cupom na tela de pagamento.
+
+[{shop_name}]({shop_url})
+
+Powered by [PrestaShop](https://www.prestashop.com/?utm_source=marchandprestashop&utm_medium=e-mail=utm_campaign=footer_1-7)

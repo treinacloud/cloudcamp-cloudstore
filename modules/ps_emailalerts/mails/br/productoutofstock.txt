@@ -1,0 +1,15 @@
+{shop_url}
+
+Olá,
+
+{product} está quase esgotado.
+
+Há agora menos que {last_qty} itens em estoque.
+
+Estoque restante: {qty}
+
+Reabasteça seu inventário, entre na seção Catálogo > Estoques de sua área de administração para gerenciar seu estoque.
+
+[{shop_name}]({shop_url})
+
+Powered by [PrestaShop](https://www.prestashop.com/?utm_source=marchandprestashop&utm_medium=e-mail=utm_campaign=footer_1-7)

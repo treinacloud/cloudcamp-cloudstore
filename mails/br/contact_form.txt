@@ -1,0 +1,17 @@
+{shop_url}
+
+Olá {firstname} {lastname},
+
+Sua mensagem foi enviada com sucesso, obrigado por ter disponibilizado seu tempo para escrever!
+
+ID do Pedido:  {order_name}
+
+Produto:  {product_name}
+
+Arquivo anexo: {attached_file}
+
+Responderemos assim que for possível.
+
+[{shop_name}]({shop_url})
+
+Powered by [PrestaShop](https://www.prestashop.com/?utm_source=marchandprestashop&utm_medium=e-mail=utm_campaign=footer_1-7)

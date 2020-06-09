@@ -1,0 +1,11 @@
+{shop_url}
+
+Olá {firstname} {lastname},
+
+Este é um e-mail de testes de sua loja.
+
+Se você estiver lendo isso, o teste foi bem sucedido!
+
+[{shop_name}]({shop_url})
+
+Powered by [PrestaShop](https://www.prestashop.com/?utm_source=marchandprestashop&utm_medium=e-mail=utm_campaign=footer_1-7)

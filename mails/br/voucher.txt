@@ -1,0 +1,15 @@
+{shop_url}
+
+Olá {firstname} {lastname},
+
+Pedido ID {order_name} - Código de vale-desconto gerado
+
+Temos a satisfação de informar que foi gerado um crédito em seu nome para o pedido com a referência {order_name}.
+
+CÓDIGO DO VALE-DESCONTO: {voucher_num} no total de {voucher_amount}
+
+Para utilizá-lo, simplesmente copie/cole este código durante a compra.
+
+[{shop_name}]({shop_url})
+
+Powered by [PrestaShop](https://www.prestashop.com/?utm_source=marchandprestashop&utm_medium=e-mail=utm_campaign=footer_1-7)

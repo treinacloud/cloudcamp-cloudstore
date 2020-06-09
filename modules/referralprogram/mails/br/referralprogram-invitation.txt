@@ -1,0 +1,17 @@
+{shop_url}
+
+{firstname_friend} {lastname_friend}, Junte-se a nós!
+
+Seu(ua) amigo(a) {firstname} {lastname} quer indicar a você a loja [{shop_name}]({shop_url})!
+
+Temos a satisfação de oferecer a você um vale-desconto no valor de {discount} que você poderá utilizar em seu próximo pedido. Indique amigos e receba um vale-desconto de {discount}!
+
+[É muito fácil se inscrever. Basta clicar aqui!]({link})
+
+Ao se cadastrar, não se esqueça de informar o e-mail do seu amigo: {email}.
+
+Atenciosamente,
+
+[{shop_name}]({shop_url})
+
+Powered by [PrestaShop](https://www.prestashop.com/?utm_source=marchandprestashop&utm_medium=e-mail=utm_campaign=footer_1-7)

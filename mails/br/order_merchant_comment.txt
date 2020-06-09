@@ -1,0 +1,15 @@
+{shop_url}
+
+Olá {firstname} {lastname},
+
+Mensagem da loja {shop_name}
+
+Você recebeu uma nova mensagem da {shop_name} sobre o pedido com referência {order_name}.
+
+Mensagem:
+
+{message}
+
+[{shop_name}]({shop_url})
+
+Powered by [PrestaShop](https://www.prestashop.com/?utm_source=marchandprestashop&utm_medium=e-mail=utm_campaign=footer_1-7)

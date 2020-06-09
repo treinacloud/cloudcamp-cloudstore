@@ -1,0 +1,13 @@
+{shop_url}
+
+Olá,
+
+{product} já está disponível.
+
+Boas notícias, este item está de volta em nosso estoque!
+
+Clique no link a seguir para visitar a página do produto e comprá-lo: [{product}]({product_link})
+
+[{shop_name}]({shop_url})
+
+Powered by [PrestaShop](https://www.prestashop.com/?utm_source=marchandprestashop&utm_medium=e-mail=utm_campaign=footer_1-7)

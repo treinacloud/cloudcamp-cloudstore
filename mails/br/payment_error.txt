@@ -1,0 +1,17 @@
+{shop_url}
+
+Olá {firstname} {lastname},
+
+Pedido ID {order_name} - Erro de pagamento
+
+Encontramos um erro ao processar seu pagamento do pedido com a referência {order_name} da {shop_name}. Por favor, entre em contato conosco assim que possível.
+
+Você pode esperar o envio assim que seu pagamento for recebido.
+
+Acompanhe seu pedido e baixe sua fatura em nossa loja, entre na seção [Histórico e detalhes dos pedidos]({history_url}) de sua conta de cliente.
+
+Se você tem uma conta de convidado, pode acompanhar seu pedido através da seção [Rastreamento de Visitante]({guest_tracking_url}) em nossa loja.
+
+[{shop_name}]({shop_url})
+
+Powered by [PrestaShop](https://www.prestashop.com/?utm_source=marchandprestashop&utm_medium=e-mail=utm_campaign=footer_1-7)

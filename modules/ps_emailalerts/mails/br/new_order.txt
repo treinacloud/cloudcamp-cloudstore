@@ -1,0 +1,41 @@
+{shop_url}
+
+Parabéns!
+
+Um novo pedido foi efetuado na {shop_name} pelo seguinte cliente: {firstname} {lastname} ({email})
+
+Detalhes do pedido
+
+Pedido: {order_name} Realizado em {date}
+
+Pagamento: {payment}
+
+Referência	Produto	Preço Unitário	Quantidade	Valor total   {items}
+Produtos	{total_products}
+Descontos	{total_discounts}
+Embalagem para presente	{total_wrapping}
+Frete	{total_shipping}
+Incluindo impostos	{total_tax_paid}
+Total pago	{total_paid}
+
+Transportadora
+
+Transportadora {carrier}
+
+Pagamento: {payment}
+
+Endereço de entrega
+
+{delivery_block_html}
+
+Endereço de cobrança
+
+{invoice_block_html}
+
+Mensagem do cliente:
+
+{message}
+
+[{shop_name}]({shop_url})
+
+Powered by [PrestaShop](https://www.prestashop.com/?utm_source=marchandprestashop&utm_medium=e-mail=utm_campaign=footer_1-7)

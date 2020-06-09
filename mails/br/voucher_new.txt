@@ -1,0 +1,13 @@
+{shop_url}
+
+Olá {firstname} {lastname},
+
+O código do vale-desconto foi gerado
+
+Este é seu novo código de vale-desconto: {voucher_num}
+
+Para utilizá-lo, simplesmente copie/cole este código durante a compra.
+
+[{shop_name}]({shop_url})
+
+Powered by [PrestaShop](https://www.prestashop.com/?utm_source=marchandprestashop&utm_medium=e-mail=utm_campaign=footer_1-7)

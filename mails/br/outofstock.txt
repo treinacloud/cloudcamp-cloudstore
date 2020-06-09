@@ -1,0 +1,17 @@
+{shop_url}
+
+Olá {firstname} {lastname},
+
+Muito obrigado pelo seu pedido com referência {order_name} na {shop_name}.
+
+Pedido ID {order_name} - Reabastecimento necessário
+
+Infelizmente, um ou mais itens estão atualmente sem estoque e isso pode causar um breve atraso em sua entrega. Por favor, aceite nossas desculpas por essa inconveniência e esteja certo de que estamos fazendo todo o possível para corrigir a situação.
+
+Acompanhe seu pedido e baixe sua fatura em nossa loja, entre na seção [Histórico e detalhes dos pedidos]({history_url}) de sua conta de cliente.
+
+Se você tem uma conta de convidado, pode acompanhar seu pedido através da seção [Rastreamento de Visitante]({guest_tracking_url}) em nossa loja.
+
+[{shop_name}]({shop_url})
+
+Powered by [PrestaShop](https://www.prestashop.com/?utm_source=marchandprestashop&utm_medium=e-mail=utm_campaign=footer_1-7)

@@ -1,0 +1,11 @@
+{shop_url}
+
+Olá {firstname} {lastname},
+
+Um novo pedido foi gerado em seu nome.
+
+Por favor, acesse o link {order_link} para finalizar o pagamento.
+
+[{shop_name}]({shop_url})
+
+Powered by [PrestaShop](https://www.prestashop.com/?utm_source=marchandprestashop&utm_medium=e-mail=utm_campaign=footer_1-7)

@@ -1,0 +1,31 @@
+{shop_url}
+
+Olá {firstname} {lastname},
+
+Muito obrigado por comprar na {shop_name}!
+
+Pedido ID {order_name} - Pagamento pendente
+
+Seu pedido com a referência {order_name} foi registrado com sucesso. Você pode esperar o envio assim que recebermos seu pagamento.
+
+Método de pagamento: transferência bancária
+
+Você escolheu efetuar o pagamento por transferência bancária. Aqui estão as informações que você precisa para sua transferência:
+
+Total:  {total_paid}
+
+Titular da conta:  {bankwire_owner}
+
+Detalhes da conta: {bankwire_details}
+
+Endereço do banco: {bankwire_address}
+
+Por favor, coloque a referência do seu pedido na descrição da transferência bancária.
+
+Acompanhe seu pedido e baixe sua fatura em nossa loja, entre na seção [Histórico e detalhes dos pedidos]({history_url}) de sua conta de cliente.
+
+Se você tem uma conta de convidado, pode acompanhar seu pedido através da seção [Rastreamento de Visitante]({guest_tracking_url}) em nossa loja.
+
+[{shop_name}]({shop_url})
+
+Powered by [PrestaShop](https://www.prestashop.com/?utm_source=marchandprestashop&utm_medium=e-mail=utm_campaign=footer_1-7)

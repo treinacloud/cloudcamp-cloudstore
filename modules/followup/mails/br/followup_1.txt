@@ -1,0 +1,21 @@
+{shop_url}
+
+Olá {firstname} {lastname},
+
+Seu carrinho na {shop_name}
+
+Obrigado por sua visita. No entanto, parece que você não completou sua compra.
+
+Seu carrinho foi salvo, você pode retomar seu pedido em nossa loja: {shop_url}
+
+Temos a satisfação de oferecer a você um desconto de {amount}% para seu próximo pedido. Esta oferta é válida por {days} dias, então não espere muito!
+
+Seu vale-desconto na {shop_name}
+
+Aqui está seu VALE-DESCONTO: {voucher_num}
+
+Digite este código em seu carrinho de compras para obter o seu desconto.
+
+[{shop_name}]({shop_url})
+
+Powered by [PrestaShop](https://www.prestashop.com/?utm_source=marchandprestashop&utm_medium=e-mail=utm_campaign=footer_1-7)

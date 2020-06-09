@@ -1,0 +1,15 @@
+{shop_url}
+
+Olá {firstname} {lastname},
+
+Sua conta de convidado foi convertida em uma conta de cliente
+
+Parabéns, sua conta de convidado da {shop_name} foi convertida em uma conta de cliente!
+
+E-mail: {email}
+
+Você já pode acessar sua conta através do nosso site: [{shop_name}]({shop_url})
+
+[{shop_name}]({shop_url})
+
+Powered by [PrestaShop](https://www.prestashop.com/?utm_source=marchandprestashop&utm_medium=e-mail=utm_campaign=footer_1-7)

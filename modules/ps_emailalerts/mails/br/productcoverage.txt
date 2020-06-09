@@ -1,0 +1,11 @@
+{shop_url}
+
+Olá,
+
+Sua reserva de estoque está menor que o mínimo especificado de: {warning_coverage}
+
+Cobertura atual do estoque: {current_coverage}
+
+[{shop_name}]({shop_url})
+
+Powered by [PrestaShop](https://www.prestashop.com/?utm_source=marchandprestashop&utm_medium=e-mail=utm_campaign=footer_1-7)

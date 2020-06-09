@@ -1,0 +1,25 @@
+<?php return array (
+  'parameters' => 
+  array (
+    'database_host' => 'database.cloudcamp.prod',
+    'database_port' => '',
+    'database_name' => 'cloudcamp_store',
+    'database_user' => 'cloudcamp',
+    'database_password' => '1234qwer',
+    'database_prefix' => 'ps_',
+    'database_engine' => 'InnoDB',
+    'mailer_transport' => 'smtp',
+    'mailer_host' => '127.0.0.1',
+    'mailer_user' => NULL,
+    'mailer_password' => NULL,
+    'secret' => '49E0wDND11OM59ZbyM6wkWq278v1YHj8hA7hXqCr43dZ9wvi2Je2wJ2Y',
+    'ps_caching' => 'CacheMemcache',
+    'ps_cache_enable' => false,
+    'ps_creation_date' => '2020-06-06',
+    'locale' => 'pt-BR',
+    'use_debug_toolbar' => true,
+    'cookie_key' => 'EbQEedyIgNSheABR6EJxCKumWaa842I5KShJAFYxykZX7q3odpJOGp8H',
+    'cookie_iv' => 'NTGzm3ia',
+    'new_cookie_key' => 'def00000b4c2adab7f10229e9cc089e3f7b76d56eebee06720bb6f130871932380c2eaf3dfe8d4868d972961a236617b50264150d4c7252bf87d6d4ddd556bdc3eef7913',
+  ),
+);
