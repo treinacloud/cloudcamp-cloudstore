@@ -9,6 +9,6 @@ hooks:
       timeout: 300
       runas: root
   AfterInstall:
-    - location: codedeploy/restart.sh
+    - location: codedeploy/start.sh
       timeout: 300
       runas: root
