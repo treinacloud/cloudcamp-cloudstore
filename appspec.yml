@@ -3,3 +3,12 @@ os: linux
 files:
   - source: /
     destination: /var/www/html/
+hooks:
+  BeforeInstall:
+    - location: codedeploy/rm_files.sh
+      timeout: 300
+      runas: root
+  AfterInstall:
+    - location: codedeploy/restart.sh
+      timeout: 300
+      runas: root
